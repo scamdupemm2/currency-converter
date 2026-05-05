@@ -1,6 +1,6 @@
 # Currency Converter
 
-**Автор:** Иван Иванов
+**Автор:** Данила Косолапов
 **Вариант:** Currency Converter (Конвертер валют)
 **Дата сдачи:** 05.05.2026
 
@@ -85,4 +85,4 @@ currency-converter/
 
 ## Ссылка на GitHub
 
-https://github.com/ваш-логин/currency-converter
+https://github.com/scamdupemm2/currency-converter
